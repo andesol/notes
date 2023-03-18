@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "andesol", // Usually your GitHub org/user name.
-  projectName: "notes.github.io", // Usually your repo name.
+  projectName: "notes", // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: "throw",
